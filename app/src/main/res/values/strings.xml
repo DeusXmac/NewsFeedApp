@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News Feed App</string>
+    <string name="noInternet">No Internet Connection</string>
+    <string name="noNews">No News Found</string>
+    <string name="slash">/</string>
+    <string name="dots">...</string>
+    <string name="newsFeedSettings">News Feed Settings</string>
+    <string name="settings">Settings</string>
+    <string name="newest">Newest</string>
+    <string name="oldest">Oldest</string>
+    <string name="valNewest">newest</string>
+    <string name="valOldest">oldest</string>
+    <string name="exit">Exit</string>
+
+    <string-array name="orderBy_labels">
+        <item>@string/newest</item>
+        <item>@string/oldest</item>
+    </string-array>
+
+    <string-array name="orderBy_values">
+        <item>@string/valNewest</item>
+        <item>@string/valOldest</item>
+    </string-array>
+
+</resources>
